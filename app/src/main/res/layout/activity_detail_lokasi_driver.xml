@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="id.co.imastudio.ojekonlinecourse.MainActivity">
+
+
+
+    <fragment
+
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/baground"
+        android:orientation="vertical"
+
+        android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/lokasiawal"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/backgroundedittext"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:hint="Dari Kemana ?"
+            android:maxLines="1"/>
+
+        <TextView
+            android:id="@+id/lokasitujuan"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/backgroundedittext"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:hint="Mau Kemana ?"
+            android:lines="1"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal"
+            tools:mockup_opacity="5dp"
+            >
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_above="@+id/linear1"
+
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/backgroundedittext1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:textColor="@color/md_white_1000"
+            android:text="Nama Driver"
+
+
+            />
+
+        <TextView
+            android:textColor="@color/md_white_1000"
+
+            android:id="@+id/txtnamadriver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="Nando Septian Husni"
+
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_above="@+id/requestorder"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/backgroundedittext1"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="1"
+            android:textColor="@color/md_white_1000"
+
+            android:padding="5dp"
+            android:text="No hp"
+
+
+            />
+
+        <TextView
+            android:id="@+id/txthpdriver"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="5dp"
+            android:textColor="@color/md_white_1000"
+
+            android:text="087429487"
+
+            />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

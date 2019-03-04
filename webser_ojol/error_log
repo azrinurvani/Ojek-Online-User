@@ -1,0 +1,46 @@
+[10-Feb-2016 17:17:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting variable (T_VARIABLE) or '$' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 343
+[11-Feb-2016 13:48:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:48:56 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:49:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:49:27 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:49:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:49:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:49:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:52:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:53:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:53:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:53:58 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 13:54:04 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 63
+[11-Feb-2016 16:10:41 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Api::cancel_booking() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 449
+[11-Feb-2016 16:10:46 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Api::cancel_booking() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 449
+[11-Feb-2016 16:11:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Api::cancel_booking() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 449
+[11-Feb-2016 16:11:12 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Api::cancel_booking() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 449
+[12-Feb-2016 14:39:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:39:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:14 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:22 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:25 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:30 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:45 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:50 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:51 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:52 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:40:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:41:00 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:41:36 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:41:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:42:42 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:43:12 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:43:35 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:43:55 Asia/Jakarta] PHP Fatal error:  Call to undefined method Api::pushnotif() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 277
+[12-Feb-2016 14:44:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function isCurl() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 611
+[12-Feb-2016 14:46:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function isCurl() in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 611
+[12-Feb-2016 22:28:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/manghnet/public_html/gojeg/application/controllers/api.php on line 685

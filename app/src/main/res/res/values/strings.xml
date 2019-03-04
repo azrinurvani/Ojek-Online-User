@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProjectOjekOnline</string>
+    <string name="requireemail">Please enter email addres</string>
+    <string name="requirepassword">Please enter password</string>
+    <string name="requirename">Please enter name</string>
+    <string name="messageregister">please use email and password to register</string>
+    <string name="messagelogin">please use email and password to login</string>
+    <string name="requirephone">Please enter phone</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_go_ride">Map</string>
+    <string name="title_activity_detail_driver">Map</string>
+</resources>

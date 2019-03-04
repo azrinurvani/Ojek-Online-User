@@ -1,0 +1,51 @@
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<RelativeLayout android:id="@+id/confirm_address_map_wrapper"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   >
+    <fragment
+
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <!-- Image View that acts as map marker notice centerInParent-->
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_centerInParent="true"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/edtsearchlocation"
+        android:layout_height="55dp"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:enabled="false"
+        android:clickable="true"
+      />
+
+
+    <ImageView
+        android:id="@+id/confirm_address_map_custom_marker"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/view"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/ic_pickup"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="simpan"
+        android:id="@+id/btnsimpanlokasi"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp" />
+</RelativeLayout>
+</FrameLayout>

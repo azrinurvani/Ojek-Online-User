@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/texttgl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:gravity="right"
+                android:padding="5dp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="30 Agustus 2019"
+                android:textColor="#fff"/>
+
+
+            <TextView
+                android:id="@+id/txtawal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@android:drawable/ic_menu_directions"
+                android:lines="1"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"
+                android:text="jalan anggrek cendrawasih"/>
+
+            <TextView
+                android:id="@+id/txtakhir"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@android:drawable/ic_menu_directions"
+                android:lines="1"
+                android:fontFamily="sans-serif-condensed"
+                android:padding="5dp"
+                android:text="soeta - Terminal 1"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="5dp"
+                android:background="#ccc"
+                ></LinearLayout>
+
+            <TextView
+                android:id="@+id/txtharga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:lines="1"
+                android:fontFamily="sans-serif-condensed"
+                android:padding="5dp"
+
+                android:text="Rp.30.000"/>
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

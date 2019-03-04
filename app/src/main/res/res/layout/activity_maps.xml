@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/rootlayout"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v7.widget.Toolbar>
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/baground"
+        android:orientation="vertical"
+
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/imgpick"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/ic_pickup" />
+
+
+        <TextView
+            android:id="@+id/lokasiawal"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/backgroundedittext"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:hint="Dari Kemana ?"
+            android:maxLines="1" />
+
+        <TextView
+            android:id="@+id/lokasitujuan"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/backgroundedittext"
+            android:fontFamily="sans-serif-condensed"
+            android:gravity="center"
+            android:hint="Mau Kemana ?"
+            android:lines="1" />
+
+        <EditText
+            android:id="@+id/edtcatatan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:hint="catatan" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:orientation="horizontal"
+            tools:mockup_opacity="5dp">
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_above="@id/requestorder"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/backgroundedittext"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="Price"
+
+
+            />
+
+        <TextView
+            android:id="@+id/txtharga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="Rp.0"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="jarak"
+
+
+            />
+
+        <TextView
+            android:id="@+id/txtjarak"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="0"
+
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:text="durasi" />
+
+        <TextView
+            android:id="@+id/txtdurasi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:padding="5dp"
+            android:text="Rp.0"
+
+            />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/requestorder"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/groundbutton"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Request Order"
+        android:textAllCaps="false"
+        android:textColor="#fff" />
+
+</RelativeLayout>

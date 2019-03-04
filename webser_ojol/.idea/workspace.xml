@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eb0c9a7-e65b-4f67-99ed-3b2b6e88c5b5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1046109641">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.153" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="php" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="PHP" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="80" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="80" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+      <find>insert_bo</find>
+      <find>book</find>
+      <find>booking</find>
+      <find>login</find>
+      <find>daftar</find>
+      <find>get_re</find>
+      <find>get</find>
+      <find>insert_posisi</find>
+      <find>check_</find>
+      <find>insert_boo</find>
+      <find>insert_review</find>
+      <find>checkBoo</find>
+      <find>insert_re</find>
+      <find>check</find>
+      <find>insert_rev</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/controllers/api.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="width" value="1935" />
+    <option name="height" value="1090" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webser_ojol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webser_ojol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webser_ojol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webser_ojol" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webser_ojol" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webser_ojol" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eb0c9a7-e65b-4f67-99ed-3b2b6e88c5b5" name="Default Changelist" comment="" />
+      <created>1550456996392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550456996392</updated>
+      <workItem from="1550456999077" duration="4875000" />
+      <workItem from="1550544641316" duration="596000" />
+      <workItem from="1550551301237" duration="7366000" />
+      <workItem from="1550588181044" duration="1513000" />
+      <workItem from="1550632225618" duration="5571000" />
+      <workItem from="1550701360959" duration="14636000" />
+      <workItem from="1550761938497" duration="4853000" />
+      <workItem from="1551063511293" duration="156000" />
+      <workItem from="1551084970497" duration="1156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40722000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1548" height="872" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2795699" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webser_ojol/application/controllers/login.php" />
+    <entry file="file://$PROJECT_DIR$/webser_ojol/application/controllers/api.php" />
+    <entry file="file://$PROJECT_DIR$/__MACOSX/webser_ojol/application/controllers/._api.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
